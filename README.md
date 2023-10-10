@@ -3,7 +3,7 @@ Olá, sou a Jaqueline!
 <br>
 
 
-Sou uma profissional com experiência administrativa que está em transição de carreira para o mundo da programação:smiley:.
+Sou uma profissional com experiências administrativas, que está em transição de carreira para o mundo da programação:smiley:.
 Meu foco atual é aprimorar minhas habilidades em :
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" >
